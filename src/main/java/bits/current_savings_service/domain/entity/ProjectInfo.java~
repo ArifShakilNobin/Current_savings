@@ -1,0 +1,15 @@
+package bits.current_savings_service.domain.entity;
+
+import jakarta.persistence.*;
+import lombok.*;
+
+import java.io.Serializable;
+@Entity
+@Getter
+@Setter
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Table(name = "project_info")
+public class ProjectInfo implements Serializable {
+}

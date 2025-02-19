@@ -1,0 +1,4 @@
+package bits.current_savings_service.domain.enums;
+
+public enum ApprovalStatus {
+}
